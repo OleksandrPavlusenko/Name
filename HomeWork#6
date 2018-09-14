@@ -1,0 +1,20 @@
+# 1 - logo
+//div[@id='logo']
+# 2 - cashier / get coins
+//div[@id='cashier']
+# 3 cashier buy now button
+//div[@id='cashier_buy']
+# 4 - Arrow from Get coins to bay now button
+//div[@id='cashier_arrow']
+#5 - Bay menue 
+//label[@class='select_expandLabel']
+# 6 AVAILEBLE ON :
+//div[@id='available']
+# 7 
+//div[@id='ios']
+# 8
+//div[@id='android']
+# 9 
+//div[@id='amazon']
+# 10 
+//div[@id='wp']
